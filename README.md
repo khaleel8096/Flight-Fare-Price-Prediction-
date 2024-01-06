@@ -3,6 +3,30 @@
 Flight Price Prediction Model
 Welcome to the Flight Price Prediction Model repository! This repository contains the code for predicting flight prices based on various features. The goal is to provide an accurate and reliable tool for pricing flights, aiding businesses in the travel industry.
 
+📝 Features:
+Airline:
+Description: The airline providing the flight service.
+Source:
+Description: The departure city or airport.
+Destination:
+Description: The arrival city or airport.
+Departure Time:
+Description: The time of day when the flight departs.
+Arrival Time:
+Description: The time of day when the flight arrives.
+Duration:
+Description: The total duration of the flight in minutes.
+Total Stops:
+Description: The number of stops or layovers during the flight.
+Aircraft Type:
+Description: The type of aircraft used for the flight.
+Date of Journey:
+Description: The date when the flight departs.
+Additional Features:
+Description: Other features that may impact flight fare, including the provision of in-flight meals.
+Flight Fare:
+Description: The cost of the flight ticket.
+
 Table of Contents 📑
 
 Introduction
