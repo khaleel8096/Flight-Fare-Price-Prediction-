@@ -1,6 +1,4 @@
 # Flight-Fare-Price-Prediction-✈️
-<iframe src="https://www.kaggle.com/embed/abraamsaid/flight-fare-price-prediction?cellIds=1&kernelSessionId=157848970" height="300" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Flight Fare Price Prediction ✈️"></iframe>
-
 
 Flight Price Prediction Model
 Welcome to the Flight Price Prediction Model repository! This repository contains the code for predicting flight prices based on various features. The goal is to provide an accurate and reliable tool for pricing flights, aiding businesses in the travel industry.
